@@ -1,0 +1,30 @@
+USER GUIDE (panduan)
+Memasuki website Hotel Virgo
+
+Hal – hal  yang dibutuhkan yaitu:
+Perangkat lunak untuk memasuki website, seperti:
+Google, firefox dan alat browser lainnya.
+
+Perangkat Keras, seperti:
+Komputer, Handphone, dll
+Cara memasuki situs
+Cara memasukinya adalah dengan memasukkan link websitenya ke dalam pencarian atau url nya, seperti ini https://hotel-virgo.000webhostapp.com  yang saya sudah sediakan.
+Jika ingin memesan sebuah kamar maka diharuskan login terlebih dahulu.Jika belum mempunyai akun maka diharuskan untuk mendaftar/register agar bisa memesan sebuah kamar.
+
+Untuk memesan sebuah kamar, caranya dengan klik bagian room booking pilih kamar yang diinginkan dibagian tipe kamar, kemudian masukkan nama,tanggal check in dan check outnya. Berikut tampilan halaman bookingnya:
+
+
+
+Menuju halaman Admin
+Untuk memulai memasuki halaman admin/petugas buka url ini https://localhost/hotelatau bisa juga dengan klik Login di halaman websitenya,
+Kemudian masukkan username dan passwordnya.
+Berikut user dan pass nya:
+Login untuk admin :
+Username :Admin
+Password : 1234
+Fitur untuk tampilan admin
+Menu admin
+Dapat menambah, melihat, mengedit,menghapus data booking.
+
+Fitur petugas
+Melihat data booking.
